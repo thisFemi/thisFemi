@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-My name is Oluwafemi Adubuola (Mobile Developer and Cloud Practitioner), I'm a passionate self learning developer who loves solving problems and mastering new technologies. Most Importantly, i enjoy bringing my knowledge and energy to a team setting where we can focus on building cool stuffs and helping each other succeed.
+My name is Oluwafemi Adubuola (Mobile Developer and Cloud Practitioner), I'm a passionate self-learning developer who loves solving problems and mastering new technologies. Most Importantly, I enjoy bringing my knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [oluwafemijacob1@gmail.com](mailto:oluwafemijacob1@gmail.com)
-* 🧠  I'm currently learning App Development LifeCycle working  with Flutter
-* 🤝  I'm open to collaborating on Mobile Devs, Cloud Computing, IT in General
+* 🧠  I'm currently learning cross-platform software integration with Flutter
+* 🤝  I'm open to collaborating on Mobile Devs, Cloud Computing, and IT in General
 
 ### Technologies i use
 
