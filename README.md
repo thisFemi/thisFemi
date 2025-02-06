@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Fullstack Mobile Developer, i sometimes play around Cloud Computing...,
+I'm a Mobile Developer, i sometimes play around Cloud Computing...,
 
 * 🤝  I'm open to collaborating on Mobile Devs, Cloud Computing, and IT in General
 
